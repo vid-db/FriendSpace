@@ -17,10 +17,10 @@ const Feed = () => {
         <Box flex={4} p={2}>
             {loading ? (
                 <Stack spacing={1}>
-                    <Skeleton variant="text" height={100} />
+                    <Skeleton variant="text" height={120} />
                     <Skeleton variant="text" height={20} />
                     <Skeleton variant="text" height={20} />
-                    <Skeleton variant="rectangular" height={300} />
+                    <Skeleton variant="rectangular" height={550} />
                 </Stack>
             ) : (
                 <>
