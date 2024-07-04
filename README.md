@@ -3,7 +3,7 @@
 <p> 
     Facebook Inspired User Interface using Node JS, React JS and Material UI. 
     <br>
-    See it in action here: <a target="_blank" href="https://vid-db.github.io/fb_clone/"> https://vid-db.github.io/fb_clone/ </a>
+    See it in action here: <a target="_parent" href="https://vid-db.github.io/fb_clone/"> https://vid-db.github.io/fb_clone/ </a>
 </p>
 
 <br>
