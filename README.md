@@ -16,7 +16,7 @@
 <br> <br>
 
 <div height="40px" align="center">
-<img src="https://github.com/vid-db/vid-db/assets/153529283/57386899-334f-477c-a93e-009c2d0a1126"/>
+<img src="https://github.com/vid-db/vid-db/assets/153529283/57386899-334f-477c-a93e-009c2d0a1126" width="250"/>
 </div>
 <h3 align="center" "> Mobile View </h3>
 
