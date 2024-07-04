@@ -1,7 +1,9 @@
 # fb_clone
 
-<p> Facebook Inspired User Interface using Node JS, React JS and Material UI. </p>
-See it in action here: https://vid-db.github.io/fb_clone/
+<p> Facebook Inspired User Interface using Node JS, React JS and Material UI. 
+
+</p>
+See it in action here: <a target="_blank' href="https://vid-db.github.io/fb_clone/"> https://vid-db.github.io/fb_clone/ </a>
 <br>
 <div align="center">
     <h3 align="center" "> Light Mode </h3>
