@@ -1,6 +1,7 @@
 # fb_clone
 
 <p> Facebook Inspire User Interface using Node JS, React JS and Material UI. </p>
+See it in action here: https://vid-db.github.io/fb_clone/
 <br>
 <div align="center">
     <h3 align="center" "> Light Mode </h3>
@@ -16,8 +17,8 @@
 <br> 
 <div align="center"> 
     <h3>Mobile View</h3>
-    <img src="https://github.com/vid-db/fb_clone/assets/153529283/341601e7-d87e-4b16-90b7-e071accb11d1)"width="280"/>
+    <img src="https://github.com/vid-db/fb_clone/assets/153529283/341601e7-d87e-4b16-90b7-e071accb11d1)"width="260"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    <img src="https://github.com/vid-db/fb_clone/assets/153529283/54ee7f36-dd98-4600-9065-d0fe384c18d2"width="280"/>
+    <img src="https://github.com/vid-db/fb_clone/assets/153529283/54ee7f36-dd98-4600-9065-d0fe384c18d2"width="260"/>
 </div>
 
