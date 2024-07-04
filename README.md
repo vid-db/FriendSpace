@@ -15,9 +15,9 @@ Facebook Inspire User Interface using Node JS, React JS and Material UI. </br>
 <div align="center"> Darkmode </div>
 <br>
 <br>
-<div>
+<div height="40px" align="center">
   
 ![photo_6066755577956121877_y](https://github.com/vid-db/vid-db/assets/153529283/57386899-334f-477c-a93e-009c2d0a1126)
-<div align="center"> Mobile View </div>
 </div>
+<div align="center"> Mobile View </div>
 
