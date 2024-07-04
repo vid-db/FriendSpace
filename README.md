@@ -1,6 +1,6 @@
 # fb_clone
 
-<p> Facebook Inspire User Interface using Node JS, React JS and Material UI. </p>
+<p> Facebook Inspired User Interface using Node JS, React JS and Material UI. </p>
 See it in action here: https://vid-db.github.io/fb_clone/
 <br>
 <div align="center">
