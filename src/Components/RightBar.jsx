@@ -39,7 +39,7 @@ const RightBar = () => {
                             }} />
                     </ImageListItem>
                     <ImageListItem>
-                        <img src='photos3.jpg' alt='Photos' sx={{}}
+                        <img src='photos3.jpg' alt='Photos' 
                             style={{
                                 objectFit: 'cover',
                                 width: '100%',

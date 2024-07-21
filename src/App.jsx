@@ -1,6 +1,6 @@
 import { ThemeProvider } from '@emotion/react'
 import { Box, Stack, createTheme } from '@mui/material'
-import React, { useState } from 'react'
+import { useState } from 'react'
 import Feed from './Components/Feed'
 import NavBar from './Components/NavBar'
 import RightBar from './Components/RightBar'

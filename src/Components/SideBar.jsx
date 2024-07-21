@@ -8,7 +8,7 @@ import ModeNightIcon from '@mui/icons-material/ModeNight';
 import PersonIcon from '@mui/icons-material/Person';
 import SettingsIcon from '@mui/icons-material/Settings';
 import StorefrontIcon from '@mui/icons-material/Storefront';
-import React from 'react';
+
 
 const SideBar = ({ mode, setMode }) => {
     return (

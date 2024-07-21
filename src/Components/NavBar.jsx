@@ -1,12 +1,11 @@
 import styled from '@emotion/styled';
 import FacebookIcon from '@mui/icons-material/Facebook';
 import MailIcon from '@mui/icons-material/Mail';
-import { useTheme } from '@mui/material/styles';
 
 import NotificationsIcon from '@mui/icons-material/Notifications';
 
 import { AppBar, Avatar, Badge, Box, InputBase, Menu, MenuItem, Toolbar, Typography } from '@mui/material';
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 const StyledToolBar = styled(Toolbar)({
     display: "flex",
@@ -48,7 +47,7 @@ const NavBar = () => {
         <AppBar position='sticky' >
             <StyledToolBar>
 
-                <Typography variant='h6' sx={{ display: { xs: 'none', sm: 'block' } }}>FaceBook</Typography>
+                <Typography variant='h6' sx={{ display: { xs: 'none', sm: 'block' } }}>FriendSpace</Typography>
                 <FacebookIcon sx={{ display: { xs: 'block', sm: 'none' } }} />
                 <Search ><InputBase placeholder='Search...' /></Search>
                 <SearchIcon>
