@@ -1,4 +1,4 @@
-# fb_clone
+# FriendSpace
 
 <p> 
     Facebook Inspired User Interface using Node JS, React JS and Material UI. 
