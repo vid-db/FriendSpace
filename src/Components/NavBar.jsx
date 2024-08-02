@@ -1,5 +1,4 @@
 import styled from '@emotion/styled';
-import FacebookIcon from '@mui/icons-material/Facebook';
 import MailIcon from '@mui/icons-material/Mail';
 
 import NotificationsIcon from '@mui/icons-material/Notifications';
@@ -48,7 +47,7 @@ const NavBar = () => {
             <StyledToolBar>
 
                 <Typography variant='h6' sx={{ display: { xs: 'none', sm: 'block' } }}>FriendSpace</Typography>
-                <FacebookIcon sx={{ display: { xs: 'block', sm: 'none' } }} />
+                <Avatar sx={{ display: { xs: 'block', sm: 'none', width: 30, height: 30 } }} src='white_logo.png' />
                 <Search ><InputBase placeholder='Search...' /></Search>
                 <SearchIcon>
                     <Badge badgeContent={4} color="error">
