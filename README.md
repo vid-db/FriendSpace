@@ -1,7 +1,7 @@
 # FriendSpace
 
 <p> 
-   A responsive web application inspired by Facebook's UI designed to be visually appealing and functional across various devices. Developed using Node JS, React JS, and Material UI 
+   A responsive web frontend user interface inspired by Facebook's UI designed to be visually appealing and functional across various devices. Developed using Node JS, React JS, and Material UI 
     <br>
     See it in action here: <a href="https://vid-db.github.io/FriendSpace/"> https://vid-db.github.io/FriendSpace/ </a>
 </p>
